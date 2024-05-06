@@ -45,7 +45,7 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 #EXTINF:0,TVM El Salvador (TV)  (720p)
 #EXTGRP:Nacionales
-http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Ciencia, Tecnología, Arte
 #EXTVLCOPT:network-caching=1000
